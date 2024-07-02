@@ -1,4 +1,4 @@
- package DSA_with_Java.Stack.Exercise;
+ package Stack.Exercise;
 
 class Stack {
 

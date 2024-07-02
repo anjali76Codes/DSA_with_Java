@@ -1,4 +1,4 @@
-package DSA_with_Java.Queue_Assignments;
+package Queue_Assignments;
 
 class Queue {
       

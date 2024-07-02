@@ -1,4 +1,4 @@
-package DSA_with_Java.ArrayList_Exercise;
+package ArrayList_Exercise;
 
 import java.util.ArrayList;
 import java.util.HashSet;

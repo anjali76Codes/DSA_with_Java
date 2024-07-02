@@ -1,4 +1,4 @@
-package DSA_with_Java.ArrayList_Assignments;
+package ArrayList_Assignments;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -45,7 +45,7 @@ class Participant {
     }
 }
 
-class Tester {
+class Playerr {
 
     public static List<Participant> generateListOfFinalists(Participant[] finalists) {
         List<Participant> finalistsList = new ArrayList<>();
@@ -90,3 +90,4 @@ class Tester {
     }
 
 }
+

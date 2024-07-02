@@ -1,10 +1,10 @@
-package DSA_with_Java.LinkedList_Exercise;
+package LinkedList_Exercise;
 
 import java.util.List;
 import java.util.LinkedList;
 import java.util.Iterator;
 
-class ConcatenateList {
+class ConcatenatedList {
 
     public static List<Object> concatenateLists(List<Object> listOne, List<Object> listTwo) {
         List<Object> concatenatedList = new LinkedList<>(listOne); // Create a new list with elements of listOne

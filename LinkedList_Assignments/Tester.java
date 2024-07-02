@@ -1,4 +1,4 @@
-package DSA_with_Java.LinkedList_Assignments;
+package LinkedList_Assignments;
 
 class Node {
     private String data;

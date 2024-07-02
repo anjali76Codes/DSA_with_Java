@@ -1,4 +1,4 @@
-package DSA_with_Java.LinkedList_Exercise;
+package LinkedList_Exercise;
 
 class Node {
 
