@@ -1,4 +1,4 @@
-package Queue_Assignments;
+package Queue_Assignment;
 
 class Queue {
       

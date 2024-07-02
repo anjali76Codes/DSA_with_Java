@@ -1,4 +1,4 @@
-package ArrayList_Assignments;
+package ArrayList_Assignment;
 
 import java.util.ArrayList;
 import java.util.List;

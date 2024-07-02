@@ -1,4 +1,4 @@
-package LinkedList_Assignments;
+package LinkedList_Assignment;
 
 class Node {
     private String data;

@@ -1,5 +1,4 @@
-package Queue_Assignments;
-
+package Stack_Assignment;
 class Stack {
     
     private int top; 
@@ -100,3 +99,4 @@ class Tester  {
         //Implement your code here
     }
 }
+
